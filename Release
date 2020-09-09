@@ -1,0 +1,12 @@
+Origin: kyondev's repo
+Label: kyondev's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A repo for my free or beta packages for jailbroken iOS devices.
+
+SHA256:
+ b67cd51be64a74c85eab01c3c5c368617bddf900a200adfdf81803f86ae5323f 576 Packages.bz2
+ e5dfff144f963315671d401386b542f4df5f3f6c020012e733233b8fb828d597 576 Packages.xz
